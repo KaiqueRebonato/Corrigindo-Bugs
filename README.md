@@ -12,7 +12,7 @@ Projeto desenvolvido no modulo 2 do Explorer da Rocketseat com os primeiros conh
   <img src="./.github/preview.png" width="100%">
 </p>
 
- <h2 align="center"><a href=https://kaiquerebonato.github.io/Corrigindo-Bugs/" target="_blank">Projeto ao vivo</a></h2>
+ <h2 align="center"><a href="https://kaiquerebonato.github.io/Treine.me/" target="_blank">Projeto ao vivo</a></h2>
 
 ### 🚀 Tecnologias
 
